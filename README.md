@@ -2,7 +2,7 @@
 # Hi, I'm Aditya 👋
 
 This is project named "HEALTHMATE" it is a Web App which offers the 
-user servies like -:Computation of medical insurance ,diabetes detection ,stroke detetection and happiness index in context to mental health
+user services  like -:Computation of medical insurance ,diabetes detection ,stroke detection  and happiness index in context to mental health
 
 
 ## 🚀 About Me
