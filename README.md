@@ -18,6 +18,10 @@ You can see check the project here -
 
 https://healthmate11.herokuapp.com/
 
+Project View-
+
+![image](https://user-images.githubusercontent.com/64576351/152261437-8d96d603-3aba-4b31-9ebd-7c481c3458ac.png)
+
 
 ## STEPS FOLLOWED
 
