@@ -43,8 +43,5 @@ Project View-
 
 9.DEPLOYMENT IN HEROKU
 
-  ## ACKNOWLEDGEMENTS -
-1.DEEPANSHU 
-
 
   
